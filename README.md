@@ -1,4 +1,10 @@
-### Hi I'm Burhoniddin Turdaliyev <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e47ptxiqnjpav1qq8o72e2g6k45gtzh6vhxa2hlrd2z&rid=200w.webp&ct=s" width="40px">  <br/> I'm Fronted Developer 
+### Hi I'm Burhoniddin Turdaliyev <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e47ptxiqnjpav1qq8o72e2g6k45gtzh6vhxa2hlrd2z&rid=200w.webp&ct=s" width="40px">
+
+### My social accounts
+<a href="https://www.linkedin.com/mwlite/in/burhoniddin-turdaliyev-060a38226">
+ <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" width="40px">
+</a>
+
 
 ### Languages and tools I work with:
 <br/>
