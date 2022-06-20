@@ -5,12 +5,10 @@ I'm Fronted Developer
 ### Languages and tools I work with:
 <br/>
 
-<code>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40px"> </code>
-<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40px"></code>
- <code><img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="40px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40px"></code>
+<code><img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="40px"></code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="40px"></code>
- <code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40px">
-</code>
+<code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40px"></code>
  
 
