@@ -1,4 +1,4 @@
-### Hi I'm Burhoniddin Turdaliyev <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e47ptxiqnjpav1qq8o72e2g6k45gtzh6vhxa2hlrd2z&rid=200w.webp&ct=s" width="40px"> and I'm Fronted Developer 
+### Hi<img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e47ptxiqnjpav1qq8o72e2g6k45gtzh6vhxa2hlrd2z&rid=200w.webp&ct=s" width="40px"> I'm Burhoniddin Turdaliyev and I'm Fronted Developer 
 
 ### Languages and tools I work with:
 <br/>
