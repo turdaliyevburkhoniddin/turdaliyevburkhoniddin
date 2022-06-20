@@ -5,6 +5,17 @@
  <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG38.png" width="40px">
 </a>
 
+<a href="[https://www.linkedin.com/mwlite/in/burhoniddin-turdaliyev-060a38226](http://instagram.com/burkhoniddin_turdaliyev)">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40px">
+</a>
+
+<a href="https://t.me/turdaliyev_uz">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40px">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100069959953786">
+ <img src="https://www.kindpng.com/picc/m/22-227301_facebook-logo-png-flat-clipart-image-transparent-facebook.png" width="40px">
+</a>
 
 ### Languages and tools I work with:
 <br/>
