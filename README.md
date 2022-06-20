@@ -2,7 +2,7 @@
 
 ### My social accounts
 <a href="https://www.linkedin.com/mwlite/in/burhoniddin-turdaliyev-060a38226">
- <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" width="40px">
+ <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG38.png" width="40px">
 </a>
 
 
