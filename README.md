@@ -2,7 +2,7 @@
 
 ### My social accounts
 <a href="https://www.linkedin.com/mwlite/in/burhoniddin-turdaliyev-060a38226">
- <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="50px">
+ <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" width="40px">
 </a>
 
 <a href="https://www.linkedin.com/mwlite/in/burhoniddin-turdaliyev-060a38226">
