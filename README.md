@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100069959953786">
- <img src="https://www.kindpng.com/picc/m/22-227301_facebook-logo-png-flat-clipart-image-transparent-facebook.png" width="40px">
+ <img src="https://alxgroup.com.au/wp-content/uploads/2019/01/facebook-3-logo-png-transparent.png" width="40px">
 </a>
 
 ### Languages and tools I work with:
