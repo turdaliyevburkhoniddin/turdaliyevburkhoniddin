@@ -5,7 +5,7 @@
  <img src="https://pngpress.com/wp-content/uploads/2020/09/uploads_linkedIn_linkedIn_PNG38.png" width="40px">
 </a>
 
-<a href="[https://www.linkedin.com/mwlite/in/burhoniddin-turdaliyev-060a38226](http://instagram.com/burkhoniddin_turdaliyev)">
+<a href="https://www.linkedin.com/mwlite/in/burhoniddin-turdaliyev-060a38226">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40px">
 </a>
 
